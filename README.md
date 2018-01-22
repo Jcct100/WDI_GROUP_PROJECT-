@@ -163,3 +163,11 @@ As a team we briefly discussed on the MVP. Our team strategy was to achieve the 
 
 * Tweak events index so it only displays events that you are interested in rather than all events. 
 
+### Code available: 
+https://github.com/Jcct100/WDI_GROUP_PROJECT
+
+### Heroku:
+https://out-james.herokuapp.com/
+
+
+
